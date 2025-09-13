@@ -1,7 +1,7 @@
 .na{
     font-size: 25px;
     display:flex;
-    margin-top: 0px;
+    top: 0px;
     position:fixed;
     background-color: white;
     
@@ -43,6 +43,14 @@
             display:inline-block;
             text-align: center;
             width:300px;
+        }
+        .c{
+            border:solid 2px white;
+            height: 80px;
+        }
+         .d{
+            border:solid 2px white;
+            height: 80px;
         }
         .b{
             font-weight:bold ;
